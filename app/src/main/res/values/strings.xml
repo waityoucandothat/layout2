@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">layout2</string>
+    <array name="layouts">
+        <item>frame layout</item>
+        <item>grid layout</item>
+        <item>linear layout</item>
+    </array>
+
+</resources>
